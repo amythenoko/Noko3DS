@@ -15,3 +15,9 @@
 [3dsDL](https://github.com/ankushKun/3dsDL)
 
 [MCU Bricker - temporarily makes your 3DS/2DS LED go rainbow](https://dionicio3.com/archive/MCU_Bricker/)
+
+[Pretendo Network](https://pretendo.network/docs/install/3ds)
+
+[Level256 Network](https://level256.mods.jp/)
+
+[Level256 Client](https://github.com/Tekito-256/level256-client)
